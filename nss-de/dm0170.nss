@@ -74,7 +74,7 @@ Als Koujaku mein Starren bemerkt&, laechelt er&.
 }
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm01/7000010a02">
-"Was ist los? Beneidest du meine Maenlichkeit?" 
+"Was ist los? Beneidest du meine Maennlichkeit?" 
 
 </PRE>
 	SetText();
@@ -115,7 +115,8 @@ Als Koujaku mein Starren bemerkt&, laechelt er&.
 Ich uebermittle Koujaku ein Danke&, indem ich laechele&,
 waehrend ich seinen Witz kritisiere&.
 
-Koujaku antwortet nur mit einem lautlosen Zwinkern und signalisiert damit&.
+Koujaku antwortet nur mit einem lautlosen Zwinkern und signalisiert damit&,
+dass die Nachricht angekommen ist&.
 
 Ich kann das nicht glauben&, aber es geht mir tatsaechlich ein wenig Nahe&.&.&.
 
@@ -149,8 +150,7 @@ Ich kann das nicht glauben&, aber es geht mir tatsaechlich ein wenig Nahe&.&.&.
 {
 	DeleteAllSt(200,true);
 }
-I part with Koujaku while waving slightly&, and begin to 
-walk again&. 
+Ich trenne mich von Koujaku und winke leicht&, dann fange ich an weiterzulaufen&. 
 
 </PRE>
 	SetText();
@@ -172,19 +172,19 @@ walk again&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0030]
-Das Lieferziel war bereits nah&, als ich an der Strasse rechts abbog und gerade aus ging&.
+Das Lieferziel war bereits nahe&, als ich an der Strasse rechts abbog und geradeaus ging&.
 
 Als ich mich an der Ecke umdrehe&, sehe ich einen Mann der am Strassenrand hockt&.
 
-Er fluestert etwas&, aber ich verstehe die Inhalte kaum&.
+Er fluestert etwas&, aber ich verstehe nicht genau was&.
 
-Heutzutage kann man relativ oft sehen das Leute das tun&.
+Heutzutage kann man relativ oft Leute sehen die das tun&.
 
 Auf dem Boden sitzend und in den Himmel schauend&, 
 an die Mauer lehnend zu sich selbst murmelnd&.
 
-Solche Leute gab es schon immer&, aber 
-ich habe das Gefuehl&.
+Solche Leute gab es schon immer&, aber ich habe das Gefuehl&, das es immer mehr 
+werden&.
 
 Naja&, solange du dich von Ihnen fernhaeltst&.
 

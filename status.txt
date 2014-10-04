@@ -31,5 +31,5 @@ dm0160.nss - complete
 dm0160sl.nss - complete
 \---dm0161.nss - complete
 \---dm0162.nss - complete
-dm0170.nss - proof I
-dm0180.nss - proof I
+dm0170.nss - complete
+dm0180.nss - complete

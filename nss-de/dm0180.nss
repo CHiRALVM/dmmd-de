@@ -67,11 +67,10 @@ scene dm0180.nss
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0010]
-In der Gasse dieser Nachbarschaft&, war die Strasse kleiner wie frueher&. 
-Kein Sonnenschein kam in die enge Gasse&, deshalb war es sehr feucht&.
+In dieser Gasse der Nachbarschaft&, ist die Strasse kleiner als zuvor&. Kein Sonnenschein 
+dringt in die enge Gasse vor&, deshalb ist es hier sehr feucht&.
 
-Es gab auch viele Restaurants; wohlriechende Gerueche
-und Rauch trieben staendig durch die Luft&.
+Es gibt auch viele Restaurants; wohlriechende Gerueche und Rauch liegen in der Luft&.
 
 </PRE>
 	SetText();
@@ -91,15 +90,14 @@ und Rauch trieben staendig durch die Luft&.
 }
 //【蓮】
 <voice name="蓮" class="蓮" src="voice/dm01/8000020a06">
-"Wenn du nichts ist&, wirst du in etwa einer Stunde
- Magenschmerzen bekommen&."
+"Wenn du nichts isst&, wirst du etwa in einer Stunde Magenschmerzen bekommen&."
 
 {
 	Fw("fw蒼葉_通常_shock2");
 }
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm01/8000030a01">
-"Weshalb? Stimmt etwas mit einem Magen nicht?"
+"Weshalb? Stimmt etwas mit meinem Magen nicht?"
 
 {
 	Fw("fwAM蓮_通常_normal");
@@ -113,7 +111,7 @@ und Rauch trieben staendig durch die Luft&.
 }
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm01/8000050a01">
-"Aah&, Yoshie-san's&.&.&."
+"Aah&, Yoshie-sans&.&.&."
 
 </PRE>
 	SetText();
