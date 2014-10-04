@@ -66,7 +66,7 @@ $HAON=0;//プロセス再生中
 
 	//▼ルートフラグ、選択肢、次のGameName
 	$PreGameName = $GameName;
-	$GameName = "dm0161.nss";
+	$GameName = "dm0020.nss";
 
 }
 
