@@ -29,5 +29,7 @@ dm0140.nss - complete
 dm0150.nss - complete
 dm0160.nss - complete
 dm0160sl.nss - complete
-\---dm0161.nss - proof I
-\---dm0162.nss - proof I
+\---dm0161.nss - complete
+\---dm0162.nss - complete
+dm0170.nss - proof I
+dm0180.nss - proof I
