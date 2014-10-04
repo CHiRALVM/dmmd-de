@@ -12,7 +12,8 @@ You can get the full english patch here:
 http://aarinfantasy.com/forum/f16/t171722-dramatical-murder-complete-english.html
 
 		Installation:
-1) Install it by running build.sh / build.bat 
+1) Install it by running build.sh / build.bat
+(You'll need nipa.exe by Minagi from http://www.mediafire.com/download/28loj4xpo3dggpd/nipa_2012_08_03.rar and place the nipa.exe in the same folder as the .bat) 
 		    or
 1) Download the pre-built files (n/a yet)
 2) Drag the .npa files into your DRAMAtical Murder directory
