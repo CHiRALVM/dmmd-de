@@ -35,3 +35,4 @@ dm0170.nss - complete
 dm0180.nss - complete
 
 dm0189_vs.nss - proof I
+dm0190_vs.nss - proof I
