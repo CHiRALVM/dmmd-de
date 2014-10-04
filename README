@@ -11,7 +11,7 @@ You can get the full english patch here:
 http://aarinfantasy.com/forum/f16/t171722-dramatical-murder-complete-english.html
 
 		Installation:
-1) Install it by running make.sh / make.bat 
+1) Install it by running build.sh / build.bat 
 		    or
 1) Download the pre-built files
 2) Drag the .npa files into your DRAMAtical Murder directory
