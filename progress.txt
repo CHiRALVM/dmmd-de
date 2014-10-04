@@ -1,0 +1,33 @@
+DMMd DE Translation Logs
+
+todo - Up for Translation
+uncomplete - Uncomplete Translation
+proof - Requires Proof Reading
+	proof I - Translation completed;First test
+	proof II - Second test
+	proof III - Third and last test
+	proof IV - If additional proof reading is required
+complete - Complete
+
+Time scheduele:
+	2 file per day (min)
+	
+dm0010.nss - complete
+dm0020.nss - complete
+dm0030.nss - complete
+dm0040.nss - complete
+dm0050.nss - complete
+dm0060.nss - complete
+dm0070.nss - complete
+dm0080.nss - complete
+dm0090.nss - complete
+dm0100_vs.nss - complete
+dm0110_vs.nss - complete
+dm0120_vs.nss - complete
+dm0130.nss - complete
+dm0140.nss - complete
+dm0150.nss - complete
+dm0160.nss - complete
+dm0160sl.nss - complete
+\---dm0161.nss - proof I
+\---dm0162.nss - proof I
