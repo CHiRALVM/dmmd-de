@@ -33,3 +33,5 @@ dm0160sl.nss - complete
 \---dm0162.nss - complete
 dm0170.nss - complete
 dm0180.nss - complete
+
+dm0189_vs.nss - proof I
