@@ -244,8 +244,8 @@ falls meine Kopfschmerzen schlimmer werden&.
 [text0033]
 Als ich mich tief verbeuge&, schnaubt Grossmutter und starrt wieder auf den Fernseher&.
 
-Well then&.&.&.
-Apparently Koujaku is in my room&.
+Tja dann&.&.&.
+Anscheinend ist Koujaku in meinem Zimmer&.
 
 </PRE>
 	SetText();
