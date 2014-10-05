@@ -112,8 +112,8 @@ scene dm0189_vs.nss
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0016]
-Ploetzlich fuehle ich etwas man wohl mit dem Gefuehl vergleichen kann&, 
-wenn man beim Treppen steigen ins Leere tritt&. 
+Ploetzlich fuehle ich etwas das sich wohl mit dem Gefuehl&, beim Treppensteigen 
+ins Leere zu treten&, vergleichen laesst&. 
 
 </PRE>
 	SetText();
@@ -146,8 +146,7 @@ wenn man beim Treppen steigen ins Leere tritt&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0017]
-Alles hoert auf sich zu bewegen und driftet
-danach mit grosser Geschwindigkeit davon&.
+Alles hoert auf sich zu bewegen und driftet dann mit hoher Geschwindigkeit davon&.
 
 </PRE>
 	SetText();
@@ -171,8 +170,8 @@ danach mit grosser Geschwindigkeit davon&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0021]
-In dieser verwirrenden Situation&, bekomme
-ich wieder diese stechenden Kopfschmerzen and schaue finster&.
+In dieser verwirrenden Situation&, bekomme ich wieder diese stechenden 
+Kopfschmerzen und meine Gesichtsmuskeln entgleisen&.
 
 </PRE>
 	SetText();
@@ -197,7 +196,7 @@ ich wieder diese stechenden Kopfschmerzen and schaue finster&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0023]
-Meine Gedanken werden trueb wie Sumpfwasser und meine Haneder waeren taub&.
+Meine Gedanken werden trueb wie Sumpfwasser und meine Haneder werden taub&.
 
 </PRE>
 	SetText();
@@ -218,7 +217,8 @@ Meine Gedanken werden trueb wie Sumpfwasser und meine Haneder waeren taub&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0024]
-Nachdem etwas seltsames meinen Koerper gepeinigt hat&, erstreckt sich ein neuer Anblick vor meinen Augen&.
+Nachdem etwas seltsames meinen Koerper gepeinigt hat&, erstreckt sich eine neue
+Szenerie vor meinen Augen&.
 
 </PRE>
 	SetText();
