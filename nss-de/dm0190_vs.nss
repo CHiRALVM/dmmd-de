@@ -115,7 +115,7 @@ Es ist&.&.&.
 
 Es ist fast als waere ich ins Spiel gezogen worden&.
 
-Der drahtgitter Boden strahlt Licht aus und reicht ins Endlose&.
+Der leuchtende Drahtgitter Boden reicht ins Endlose&.
 
 
 </PRE>
@@ -209,8 +209,7 @@ $SYSTEM_full_scene_update=false;
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0036]
-Als ich mich weiter umsehe&, leuchtet der Platz vor mir 
-blass-blau&.
+Als ich mich weiter umsehe&, leuchtet vor mir etwas blass-blau auf&.
 
 Der Umriss einer Person beginnt sich zu formen&, angefangen bei den Fuessen&.
 
@@ -241,8 +240,8 @@ Der Umriss einer Person beginnt sich zu formen&, angefangen bei den Fuessen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0037]
-Der Anblick der Person die vor mir erscheint sorgt fast dafuer&,
-das ich nach hinten umfalle&.
+Der Anblick der Person sorgt fast dafuer&,
+das ich vor Schreck umfalle&.
 
 
 </PRE>
@@ -301,7 +300,7 @@ das ich nach hinten umfalle&.
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm01/9000130a01">
 "Wird der Online-Modus nicht hauptsaechlich in Rhyme verwendet? Ich habe dich so 
-bisher nur auf dem Einstellungsbildschirm gesehen&."
+ bisher nur auf dem Einstellungsbildschirm gesehen&."
 
 {	Fw("fw蒼葉_通常_worry3");}
 //【蒼葉】
@@ -311,7 +310,7 @@ bisher nur auf dem Einstellungsbildschirm gesehen&."
 {	DeleteFw();}
 //【蓮】
 <voice name="蓮" class="蓮" src="voice/dm01/9000150a06">
-"Sieht so aus&. Wir befinden uns am gleichen Punkt wie vorher&."
+"Sieht so aus&. Wir befinden uns am gleichen Ort wie vorher&."
 
 </PRE>
 	SetText();
@@ -422,7 +421,8 @@ bisher nur auf dem Einstellungsbildschirm gesehen&."
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0056]
-Ren stoesst mich weg und ich rolle mich ab waehrend ein heftiger Wind ueber meinen Kopf hinweg weht&.
+Ren stoesst mich weg und ich rolle mich ab&, waehrend ein heftiger Wind ueber meinen 
+Kopf hinweg weht&.
 
 </PRE>
 	SetText();
@@ -441,7 +441,8 @@ Ren stoesst mich weg und ich rolle mich ab waehrend ein heftiger Wind ueber mein
 	FadeSt("C",200,true);}
 //【蓮】
 <voice name="蓮" class="蓮" src="voice/dm01/9000200a06">
-"Aoba&, das ist ein oeffentliches Rhymefeld&. Es sieht so aus als waeren wir in Rhyme gezogen worden&."
+"Aoba&, das ist ein oeffentliches Rhymefeld&. Es sieht so aus als waeren wir in Rhyme 
+gezogen worden&."
 
 {	Fw("fw蒼葉_通常_worry4");}
 //【蒼葉】
@@ -479,7 +480,7 @@ Ren stoesst mich weg und ich rolle mich ab waehrend ein heftiger Wind ueber mein
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0066]
-Ich folge Rens Blick und was ich sehe schockt mich&.
+Ich folge Rens Blick und was ich sehe schockiert mich&.
 
 
 </PRE>
@@ -494,7 +495,7 @@ Ich folge Rens Blick und was ich sehe schockt mich&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0067]
-Der Kopf eines Hasens&.
+Der Kopf eines Hasen&.
 
 </PRE>
 	SetText();
@@ -507,7 +508,7 @@ Der Kopf eines Hasens&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0068]
-&.&.&.Da steht eine Person die einen Hasenkopf auf hat&.
+&.&.&.Da steht eine Person mit einem Hasenkopf&.
 
 </PRE>
 	SetText();
@@ -913,7 +914,7 @@ Der Kopf eines Hasens&.
 [text0093]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm01/9000320a01">
-"Das war gefaehrlich! Hey&, warte kurz!"
+"Das war knapp! Hey&, warte kurz!"
 
 </PRE>
 	SetText();
@@ -936,7 +937,7 @@ Der Kopf eines Hasens&.
 [text0100]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm01/9000330a01">
-"I want nothing to do with Rhyme! Cut it out!"
+"Ich will nichts mit Rhyme zu tun haben! Lass den Mist!"
 
 </PRE>
 	SetText();
@@ -993,7 +994,7 @@ Der Kopf eines Hasens&.
 {	Fw("fw蒼葉_通常_rage");}
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm01/9000410a01">
-"But I said I've never done this before&.&.&.!"
+"Aber ich habe doch schon gesagt&, ich habe das nie zuvor getan&.&.&.!"
 
 {	DeleteFw();}
 //【ノイズ】
@@ -1087,13 +1088,13 @@ Der Kopf eines Hasens&.
 [text0123]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm01/9000450a01">
-"Ren&, koennen wir nichts machen!? Gibt es einen Weg wie wir
- hier raus kommen?"
+"Ren&, koennen wir nichts machen!? Gibt es keinen Weg wie wir hier raus kommen 
+koennten?"
 
 {	Fw("fw蓮_通常_normal");}
 //【蓮】
 <voice name="蓮" class="蓮" src="voice/dm01/9000460a06">
-"Ich habe es versucht&, aber die Logout Funktion scheint ausgeschalten worden zu sein&."
+"Ich habe es versucht&, aber die Logout Funktion scheint deaktiviert worden zu sein&."
 
 </PRE>
 	SetText();
@@ -1240,15 +1241,14 @@ Der Kopf eines Hasens&.
 {	DeleteFw();}
 //【蓮】
 <voice name="蓮" class="蓮" src="voice/dm01/9000520a06">
-"Rhyme doesn't inflict damage on the real body&. It is all
- an illusion in the brain&. It is controlled so that it does
- not cause any further influence&."
+"Rhyme wirkt keinen wirklichen Schaden auf den Koerper aus&. Es ist alles eine Illusion&. 
+ Es ist so eingeschraenkt&, das Folgeschaeden ausgeschlossen sind&."
 
 {	DeleteFw();}
 //【蓮】
 <voice name="蓮" class="蓮" src="voice/dm01/9000530a06">
-"Aber auf diesem Feld&, scheint die Begrenzung des Schadens
- ausgeschaltet worden zu sein&."
+"Aber auf diesem Feld&, scheint die Begrenzung des Schadens ausgeschalten worden zu 
+ sein&."
 
 {	Fw("fw蒼葉_通常_worry4");}
 //【蒼葉】
