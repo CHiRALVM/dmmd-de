@@ -9,8 +9,14 @@ proof - Requires Proof Reading
 	proof IV - If additional proof reading is required
 complete - Complete
 
+Start of project: Sat, 27. Sep 2014
+Last change: Sun, 5. Oct 2014
+Since: 8 Days (1 Week 1 Day)
+
+File/Day ratio: 29/8 = 3.625
+
 Time scheduele:
-	2 file per day (min)
+	2 files per day (min)
 	
 dm0010.nss - complete
 dm0020.nss - complete
@@ -39,6 +45,5 @@ dm0190sl.nss - complete
 \---dm0191_vs.nss - complete
 \---dm0192_vs.nss - complete
 dm0200_vs.nss - complete
-
-dm0210.nss - proof I
-dm0220.nss - proof I
+dm0210.nss - complete
+dm0220.nss - complete
