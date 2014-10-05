@@ -402,7 +402,7 @@ scene dm0200_vs.nss
 //¦ƒEƒTƒM“ª‚ÌŠç•\¦
 //yƒmƒCƒYz
 <voice name="ƒmƒCƒY" class="ƒmƒCƒY" src="voice/dm02/0000170a03">
-"Sein All-Mate ist ein altes Modell ohne Ruestung&. &.&.&.Unterschaetz er mich?"
+"Sein All-Mate ist ein altes Modell ohne Ruestung&. &.&.&.Unterschaetzt er mich?"
 
 </PRE>
 	SetText();
@@ -826,7 +826,7 @@ scene dm0200_vs.nss
 [text0083]
 //y˜@z
 <voice name="˜@" class="˜@" src="voice/dm02/0000300a06">
-"Du hast mir die Anweisung zu geben anzugreifen&."
+"Du hast mir die Anweisung gegeben anzugreifen&."
 
 {	Fw("fw‘“—t_’Êí_shock2");}
 //y‘“—tz
@@ -844,7 +844,8 @@ scene dm0200_vs.nss
 [text0090]
 //y‘“—tz
 <voice name="‘“—t" class="‘“—t" src="voice/dm02/0000320a01">
-"Aber gerade eben&.&.&. hat es sich angefuehlt als wuerde sich mein Mund von selbst bewegen&.&.&."
+"Aber gerade eben&.&.&. hat es sich angefuehlt als haette sich mein Mund von selbst 
+ bewegt&.&.&."
 
 </PRE>
 	SetText();
@@ -887,7 +888,7 @@ scene dm0200_vs.nss
 {	Fw("fw‘“—t_’Êí_angry");}
 //y‘“—tz
 <voice name="‘“—t" class="‘“—t" src="voice/dm02/0000380a01">
-"Muss es nur machen wie zuvor&.&.&."
+"Ich muss es nur machen wie zuvor&.&.&."
 
 
 </PRE>
@@ -1591,7 +1592,7 @@ scene dm0200_vs.nss
 //¦ƒEƒTƒM“ª‚ÌŠç•\¦
 //yƒmƒCƒYz
 <voice name="ƒmƒCƒY" class="ƒmƒCƒY" src="voice/dm02/0000490a03">
-"Lass uns gehen&."
+"Lasst uns gehen&."
 
 {	Fw("fwAMƒEƒTƒMƒ‚ƒhƒL_ƒŠ[ƒ_[_normal");}
 //yƒEƒTƒMƒ‚ƒhƒLƒŠ[ƒ_[z
