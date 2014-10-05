@@ -91,10 +91,9 @@ scene dm0230.nss
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0011]
-Autsch&.
-Irgendetwas schmerzt&.
+Autsch&. Irgendetwas tut mir weh&.
 
-Es fuehlt sich so an als wuerde mich etwas spitzes anstupsen&.&.&.
+Es fuehlt sich so an als wuerde mich etwas spitzes anpieken&.&.&.
 
 
 </PRE>
