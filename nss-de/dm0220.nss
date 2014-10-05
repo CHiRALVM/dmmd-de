@@ -73,7 +73,7 @@ Ren hat Haga-san gerufen und er hat mich in den Laden gebracht&.
 Obwohl ich den Beutel&, welchen ich ausliefern sollte&, verloren hatte&, 
 sagte Haga-san mit seinem ueblichen Laecheln das ich nach Hause gehen koenne&.
 
-Ich entschied mich dazu mich auf Haga-san's freundlichkeit zu verlassen und ging
+Ich entschied mich dazu mich auf Haga-san's Freundlichkeit zu verlassen und ging
 gehorsam nach Hause&.
 
 </PRE>
@@ -101,7 +101,8 @@ gehorsam nach Hause&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0011]
-Es sieht danach aus als waere Grossmutter noch nicht zu Hause und es ist dunkel im Haus&.
+Es sieht danach aus als waere Grossmutter noch nicht zu Hause und
+es ist dunkel im Haus&.
 
 {
 	CreateSE("SE01","se物体_蒼葉宅照明_点灯01");
@@ -110,19 +111,21 @@ Es sieht danach aus als waere Grossmutter noch nicht zu Hause und es ist dunkel 
 	FadeDelete("絵背景100", 200, null, true);
 }
 Ich schalte das Licht im Flur an&, betrete den Korridor und laufe in die Kueche&. 
-Ich nehme eine Pille gegen meine Kopfschmerzen vom Regal und trinke mehr Wasser als sonst&.
+Ich nehme eine Pille gegen meine Kopfschmerzen vom Regal und trinke mehr Wasser
+als sonst&.
 
-Normalerweise sollte man die Pille nach einer Mahlzeit zu sich nehmen&, aber es ist mir momentan 
-wichtiger das die Kopfschmerzen aufhoeren&.
+Normalerweise sollte man die Pille nach einer Mahlzeit zu sich nehmen&, 
+aber es ist mir momentan wichtiger das die Kopfschmerzen aufhoeren&.
 
 {
 	CreateSE("SE01","se物体_蒼葉宅階段_登る通常01");
 	MusicStart("SE01",0,700,0,1000,null,false);
 }
-Es mag daran liegen&, dass ich erleichtert bin zu Hause zu sein&, aber ich fuehle mich ploetzlich
-so muede&, dass es schwer wird zu laufen&.
+Es mag daran liegen&, dass ich erleichtert bin zu Hause zu sein&, aber ich fuehle mich 
+ploetzlich so muede&, dass es schwer wird zu laufen&.
 
-Ich will sofort einschlafen&, aber bahne mir trotzdem meinen Weg nach oben in den zweiten Stock&.
+Ich will sofort einschlafen&, aber bahne mir trotzdem meinen Weg nach oben in den 
+zweiten Stock&.
 
 </PRE>
 	SetText();
@@ -145,7 +148,7 @@ Ich will sofort einschlafen&, aber bahne mir trotzdem meinen Weg nach oben in de
 <PRE @box0>
 [text0012]
 Ich nehme Ren aus der Tasche und lege ihn aufs Bett&. 
-Ich ziehe meine Jacke aus und lege mich neben ihm hin&.
+Ich ziehe meine Jacke aus und lege mich neben ihn hin&.
 
 Hch&.&.&.
 
@@ -234,15 +237,15 @@ und ziehe sie auf&.
 Ich waehle auf meinem Coil meine Lieblingsmusik aus und schliesse meine Augen
 und lasse meinen Koerper mit der Musik fliessen&.
 
-Immer wenn ich mich unwohl fuehle&, hilft mir das immer&, mich wieder zu entspannen&.
+Immer wenn ich mich unwohl fuehle&, hilft mir das&, mich wieder zu entspannen&.
 
-Ich werde in die Welt der Musik und mir hineingezogen&.
+Ich werde in meine Welt der Musik hineingezogen&.
 
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/2000020a01">
 "&.&.&.Mn&."
 
-Der Rhytmus und das Tempo der Musik&, meine eigenes Atmen und mein Herzschlag&.
+Der Rhythmus und das Tempo der Musik&, meine eigenes Atmen und mein Herzschlag&.
 
 Sie stimmen sich langsam ab und verschmelzen schliesslich zu einer wogenden Welle&.
 
@@ -253,7 +256,7 @@ Sie stimmen sich langsam ab und verschmelzen schliesslich zu einer wogenden Well
 Dieser Whirlpool aus Melodien umgibt mich und streichelt meinen Koerper zaertlich&.
 
 Der Klang durchdringt meine Haut&, vermischt sich mit meinem Blut und fliesst
-durch mich&.
+durch mich hindurch&.
 
 </PRE>
 	SetText();
@@ -277,9 +280,8 @@ durch mich&.
 
 Lichter aller Farben tanzen in meinem Kopf wie ein weicher Film&.
 
-Es ist angenehm und ich beruhige mich langsam&. Ich sagte
-mir selbst das nur ich hier bin&, ein Ort nur fuer mich und
-es war friedlich&.
+Es ist angenehm und ich beruhige mich langsam&. Ich sage mir selbst 
+das nur ich hier bin&, ein Ort nur fuer mich&. Es ist friedlich&.
 
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/2000050a01">
@@ -292,12 +294,11 @@ es war friedlich&.
 
 	Delete("絵ＥＶ102");
 }
-Der Mistston meiner Kopfschmerzen und die Gerauesche in meinem Koerper sind weit entfernt und 
-und nur das leise Gerauesch meiner eigenen Atmung bleibt&.
+Der Mistston meiner Kopfschmerzen und die Gerauesche in meinem Koerper sind weit 
+entfernt und nur das leise Gerauesch meiner eigenen Atmung bleibt&.
 
-Es war als waere ich in eine Welle gestossen worden&,
-die alle Teile meines Koerpers durchdringt&.
-Ein entferntes Atmen entspringt gelegentlich meinen Lippen&.
+Es war als waere ich in eine Welle gestossen worden&, die alle Teile meines Koerpers
+durchdringt&. Ein entferntes Atmen entspringt gelegentlich meinen Lippen&.
 
 So angenehm&.&.&.
 
@@ -330,10 +331,10 @@ Falls ich so einschlafe&.&.&.
 
 Ein Gerauesch&.&.&.?
 
-Ich oeffne meine Augen leicht&, aber mit meinem verschwommenen Bewusstsein&, kann ich nicht sicher sagen was es ist&.
+Ich oeffne meine Augen leicht&, aber mit meinem verschwommenen Bewusstsein&, kann 
+ich nicht sicher sagen was es ist&.
 
-&.&.&.&.&.
-&.&.&.Tja&, was auch immer&.
+&.&.&.&.&.&.&.&.Tja&, was auch immer&.
 
 </PRE>
 	SetText();
@@ -344,7 +345,8 @@ Ich oeffne meine Augen leicht&, aber mit meinem verschwommenen Bewusstsein&, kan
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0060]
-Ich versuche erst gar nicht einen klaren Gedanken zu fassen und schliesse meine Augen wieder&.
+Ich versuche erst gar nicht einen klaren Gedanken zu fassen und schliesse meine Augen 
+wieder&.
 
 </PRE>
 	SetText();
@@ -438,7 +440,7 @@ Ich hege seine Worte so als wuerden sie strahlen&.
 //「壊して、そのあとにまた新たな世界を作り出せばいい。可能性に終わりなんてないんだ」
 //Hihi, it's nice that the words actually are written here&. Beautiful&.
 
-&.&.&.Was hat er wieder gesagt? Ich kann mich nicht errinern&.
+&.&.&.Was hat er wieder gesagt? Ich kann mich nicht erinnern&.
 
 Was er gesagt hat&, war wichtig&.&.&.
 
