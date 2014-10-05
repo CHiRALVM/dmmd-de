@@ -122,7 +122,7 @@ scene dm0210.nss
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0012]
-　&.&.&.Ugh&. 
+&.&.&.Uhh&. 
 Mein Kopf schmerzt&.&.&.
 
 Was&.&.&.
@@ -168,7 +168,8 @@ Es scheint so&.&.&. als waere ich irgendwo hingefallen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0021]
-Ich ertrage den Schmerz in meinen ganzen Koerper&, sammele die uebrig gebliebene Kraft in meinen Armen&, und stehe auf&.
+Ich ertrage den Schmerz in meinen ganzen Koerper&, sammele die uebrig gebliebene 
+Kraft in meinen Armen und stehe auf&.
 
 </PRE>
 	SetText();
@@ -214,7 +215,8 @@ Ich schwanke und falle fast wieder hin&, aber ich schaffe es irgendwie stehen zu
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0024]
-Ich halte mir meine Stirn und versuche meine verwirrten Errinerungen aneinander zu reihen&.
+Ich halte mir meine Stirn und versuche meine verwirrten Errinerungen aneinander zu 
+reihen&.
 
 Es muss&.&.&.
 
@@ -398,10 +400,9 @@ Ich beruehre Rens Kopf und sage seinen Namen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0043]
-After a short pause&, Ren opens his eyes&.
+Nach einer kurzen Pause oeffnet Ren seine Augen&.
 
-I feel relieved from the bottom of my heart after seeing 
-him safe&.
+Ich bin von Grund auf erleichtert&, dass es ihm gut geht&.
 
 </PRE>
 	SetText();
@@ -472,7 +473,8 @@ haben&.
 {	Fw("fw蒼葉_通常_sad");}
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/1000170a01">
-"Ja&. Es fuehlt sich bei mir auch so an als waeren in meinem Gehirn Daten beschaedigt worden&.&.&."
+"Ja&. Es fuehlt sich bei mir auch so an als waeren in meinem Gehirn Daten beschaedigt 
+worden&.&.&."
 
 {	Fw("fw蒼葉_通常_worry");}
 //【蒼葉】
@@ -502,9 +504,9 @@ haben&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0070]
-Ich ertrage die Kopfschmerzen&, schliesse meine Augen und dursuche meine Errinerungen&.
+Ich ertrage die Kopfschmerzen&, schliesse meine Augen und dursuche meine Errinerung&.
 
-Aber desto mehr ich mich errinern versuche&, desto weiter rueckt die Errinerung davon&.
+Aber desto mehr ich mich erinnern versuche&, desto weiter rueckt die Errinerung weg&.
 
 </PRE>
 	SetText();
@@ -521,7 +523,7 @@ Aber desto mehr ich mich errinern versuche&, desto weiter rueckt die Errinerung 
 [text0071]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/1000210a01">
-"&.&.&.Es bringt nichts&. Ich kann mich an gar nichts errinern&.&.&."
+"&.&.&.Es bringt nichts&. Ich kann mich an gar nichts erinnern&.&.&."
 
 {	Fw("fwAM蓮_通常_normal");}
 //【蓮】
@@ -586,7 +588,7 @@ Aber desto mehr ich mich errinern versuche&, desto weiter rueckt die Errinerung 
 [text0087]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/1000270a01">
-"Hu&.&.&. heh? Mir wird irgendie schwindlig&.&.&."
+"Hu&.&.&. heh? Mir wird irgendie schwindelig&.&.&."
 
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/1000280a01">
