@@ -86,7 +86,7 @@ scene dm0192_vs.nss
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0010]
-I move my body immediately and jump in front of Ren&.
+Ich bewege mich sofort und springe vor Ren&.
 
 </PRE>
 	SetText();
