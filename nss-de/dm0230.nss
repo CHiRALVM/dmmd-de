@@ -83,6 +83,7 @@ scene dm0230.nss
 //	TextBoxDelete(0);
 
 //※つんつん
+ls
 	CreateSE("SE01","se擬音_コミカル_ツンツン01");
 	MusicStart("SE01",0,700,0,1000,null,false);
 
@@ -93,7 +94,7 @@ scene dm0230.nss
 [text0011]
 Autsch&. Irgendetwas tut mir weh&.
 
-Es fuehlt sich so an als wuerde mich etwas spitzes anpieken&.&.&.
+Es fuehlt sich so an als wuerde mich Etwas spitzes anpieken&.&.&.
 
 
 </PRE>
@@ -124,7 +125,7 @@ Es fuehlt sich so an als wuerde mich etwas spitzes anpieken&.&.&.
 }
 //【ベニ】
 <voice name="ベニ" class="ベニ" src="voice/dm02/3000030b16">
-"Ich sage dir das du aufstehen sollst! Ich werde dich schlagen&, Idiot!"
+"Ich sage dir das du aufstehen sollst! Sonst werde dich schlagen&, Idiot!"
 
 //{	FwPro("fw蒼葉_通常_pain2",1200,"fw蒼葉_通常_rage");}
 //【蒼葉】
@@ -150,9 +151,8 @@ Es fuehlt sich so an als wuerde mich etwas spitzes anpieken&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0020]
-Springe trotz des anwesenden Angreifers auf und
-das anstupsende Ding faellt herunter&. 
-Ich greife es reflexartig mit beiden Haenden&.
+Ich springe trotz des anwesenden Angreifers auf und das stupsende Ding faellt herunter&. 
+Ich greife reflexartig mit beiden Haenden nach ihm&.
 
 </PRE>
 	SetText();
@@ -248,21 +248,21 @@ Beni flatttert in meiner Hand and schaut mich duester an&.
 [text0030]
 Ich stehe mit dem schreiendem Beni in meiner Hand auf&.
 
-Huh? Wo ist Ren?
+Huch? Wo ist Ren?
 
 Ich suche nach ihm und sehe das er an der Ecke des Bettes schlaeft&.
 
 Oh stimmt&, er hat gesagt das die Daten beschaedigt sind&. 
-Ich muss ihn spaeter warten&.
+Ich muss ihn spaeter noch warten&.
 
-Aber erst muss ich etwas essen&.
+Aber erst muss ich Etwas essen&.
 
 Dank des Schlafes&, fuehle ich mich deutlich besser&.
 
 Die Kopfschmerzen sind auch verschwunden&.
 
 Meine Gelenke schmerzen etwas&, aber es ist nicht so schlimm&, 
-das ich nicht laufen kann&.
+dass ich nicht laufen kann&.
 
 </PRE>
 	SetText();
@@ -274,12 +274,11 @@ das ich nicht laufen kann&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0031]
-Als ich den Raum verlasse&, rieche ich von unten koestliches Essen&.
+Als ich den Raum verlasse&, rieche ich von Unten koestliches Essen&.
 
 Grossmutter ist wieder da&. Sie hat angefangen zu kochen&.
 
-Als ich auf meinen Coil schaue&, stelle ich fest das es bereits 
-Zeit zum Essen ist&.
+Als ich auf meinen Coil schaue&, stelle ich fest das es bereits Zeit zum Essen ist&.
 
 </PRE>
 	SetText();
@@ -426,7 +425,7 @@ Als Koujaku mich sieht&, grinst er&.
 [text0052]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/3000140a01">
-"&.&.&.Nein Danke dir&."
+"&.&.&.Nein&, danke dir&."
 
 </PRE>
 	SetText();
@@ -445,7 +444,7 @@ Als Koujaku mich sieht&, grinst er&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0053]
-Ich gaehne gegen meinen Willen&.
+Ich gaehne unfreiwillig&.
 
 </PRE>
 	SetText();
@@ -458,7 +457,7 @@ Ich gaehne gegen meinen Willen&.
 [text0054]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/3000150a01">
-"Here&."
+"Hier&."
 
 </PRE>
 	SetText();
@@ -479,8 +478,8 @@ Ich gaehne gegen meinen Willen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0055]
-Ich werfe Beni&, den ich immernoch in der Hand hielt&, in Richtung Koujaku&. 
-Koujaku faengt ihn geschickt&.
+Ich werfe Beni&, den ich immer noch in der Hand halte&, in Richtung Koujaku&. 
+Worauf Koujaku ihn geschickt auffaengt&.
 
 </PRE>
 	SetText();
@@ -513,7 +512,7 @@ Koujaku faengt ihn geschickt&.
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm02/3000180a02">
 "Ich kann nichts dagegen tun&. Du bist ein echter Griesgram&, wenn du gerade
- aufgestanden bist&."
+ aufgewacht worden bist&."
 
 </PRE>
 	SetText();
@@ -539,8 +538,8 @@ Koujaku faengt ihn geschickt&.
 [text0063]
 //【タエ】
 <voice name="タエ" class="タエ" src="voice/dm02/3000200b03">
-"Aoba&, wenn du wach bist&, hilf ein wenig! Das Essen ist fertig&, also
- hol Essstaebchen und Tee!"
+"Aoba&, wenn du wach bist&, hilf ein wenig! Das Essen ist fertig&, also hol Essstaebchen
+ und Tee!"
 
 </PRE>
 	SetText();
@@ -573,7 +572,8 @@ Koujaku faengt ihn geschickt&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0070]
-Grossmutters Geschrei zwingt mich dazu zum Regal zu eilen&. Koujaku hoert zu und lacht&.
+Grossmutters Geschrei zwingt mich dazu zum Regal zu eilen&. Koujaku hoert zu und 
+lacht&.
 
 </PRE>
 	SetText();
@@ -625,16 +625,16 @@ Grossmutters Geschrei zwingt mich dazu zum Regal zu eilen&. Koujaku hoert zu und
 <PRE @box0>
 [text0074]
 Als ich mit den Schultern zucke waehrend ich die Essstaebchen verteile&,
-lacht Koujaku noch gluecklicher&.
+lacht Koujaku noch euphorischer&.
 
 {
 	FadeDelete("絵背景100", 500, null, true);
 }
 Ich fuelle Tee in die Drei Tassen&, waehrrend Grossmutter die Teller
- mit frischen Gerichten auf  dem Tisch verteilt&.
+mit frischen Speisen auf dem Tisch verteilt&.
 
-Da all die Vorbereitungen fuer das Essen abgeschlossen sind&, 
-Setze ich mich mit jedem an den Tisch&.
+Da alles vorbereitet ist&, 
+setze ich mich mit den Anderen an den Tisch&.
 
 </PRE>
 	SetText();
@@ -686,7 +686,7 @@ Lecker&.
 Essen&, nachdem man seine Erschoepfung ausgeschlafen hat&,
 ist koestlich&. Wirklich koestlich&.
 
-Waehrend ich das feststelle&, beobachtet Koujaku waehrend er isst Grossmutter laechelnd&.
+Waehrend ich das feststelle&, beobachtet Koujaku Grossmutter laechelnd&.
 
 </PRE>
 	SetText();
@@ -699,7 +699,7 @@ Waehrend ich das feststelle&, beobachtet Koujaku waehrend er isst Grossmutter la
 [text0090]
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm02/3000280a02">
-"Es ist wirklich gut&. Trotzdem ist es nicht ueberraschend&,
+"Es ist wirklich gut&. Trotzdem es ist keine Ueberraschung&,
  Tae-sans Essen ist das Beste&."
 
 {	Fw("fwタエ_通常_sigh");}
@@ -753,7 +753,7 @@ Aufeinmal bin ich schuld und Koujaku starrt mich an&.
 [text0100]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/3000330a01">
-"Das war&.&.&. tja&, Ich schaetze das es stimmt&.&.&."
+"Das war&.&.&. tja&, Ich schaetze das stimmt&.&.&."
 
 {	Fw("fw紅雀_通常_normal");}
 //【紅雀】
@@ -763,7 +763,7 @@ Aufeinmal bin ich schuld und Koujaku starrt mich an&.
 {	Fw("fwタエ_通常_shock");}
 //【タエ】
 <voice name="タエ" class="タエ" src="voice/dm02/3000350b03">
-"Verstehe mich nicht falsch&. Ich hatte Lebensmittel die bald ablaufen 
+"Verstehe mich nicht falsch&. Ich hatte Lebensmittel die bald ablaufen ueber
  und das war die perfekte Gelegenheit sie zu verwenden&."
 
 {	Fw("fw紅雀_通常_cheese2");}
@@ -784,7 +784,7 @@ Aufeinmal bin ich schuld und Koujaku starrt mich an&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0110]
-Grossmutter schnaubt und stopft ihren Mund mit Konbu&. 
+Grossmutter schnaubt und stopft Konbu in ihren Mund&. 
 Koujaku beobachtet sie laechelnd&.
 
 Aus irgendeinem Grund&, scheint Grossmutter Koujaku zu moegen&.
@@ -793,10 +793,10 @@ Koujaku kam mit seiner Mutter auf die Insel&,
 aber man traf ihn hauefiger alleine an&.
 
 Deshalb haengt er oft mit mir rum und kommt zu mir nach Hause&. 
-Natuerlich ist er viel auch viel von Grossmutters Essen&.
+Natuerlich ist er auch viel von Grossmutters Essen&.
 
-So wie ich Grossmutter kenne&, denkt sie jetzt das sie 
-einen zweiten Enkel hat&.
+So wie ich Grossmutter kenne&, denkt sie jetzt das sie jetzt einen zweiten 
+Enkel hat&.
 
 </PRE>
 	SetText();
@@ -819,8 +819,8 @@ einen zweiten Enkel hat&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0112]
-fragt Grossmutter mit erhobenen Augenbrauen&. Koujaku der gerade etwas Essen wollte&, 
-hielt ein und nickte ohne zu zoegern&. 
+fragt Grossmutter mit erhobenen Augenbrauen&. Koujaku der gerade etwas Essen wollte&,
+haelt ein und nickt ohne zu zoegern&. 
 
 </PRE>
 	SetText();
@@ -851,7 +851,7 @@ hielt ein und nickte ohne zu zoegern&.
 {	Fw("fw蒼葉_通常_normal2");}
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/3000410a01">
-"Tja&, es ist so wie immer&. Aber ich habe Arbeit&, also werde ich dich schlagen&,
+"Tja&, es ist so wie immer&. Aber ich habe Arbeit zu tun&, also werde ich dich schlagen&,
  auch wenn du schlaefst&."
 
 {	Fw("fw紅雀_通常_smile");}
