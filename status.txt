@@ -10,10 +10,10 @@ proof - Requires Proof Reading
 complete - Complete
 
 Start of project: Sat, 27. Sep 2014
-Last change: Sun, 5. Oct 2014
-Since: 8 Days (1 Week 1 Day)
+Last change: Mon, 6. Oct 2014
+Since: 9 Days (1 Week 2 Days)
 
-File/Day ratio: 29/8 = 3.625
+File/Day ratio: 29/9 = 3.222
 
 Time scheduele:
 	2 files per day (min)
@@ -47,5 +47,5 @@ dm0190sl.nss - complete
 dm0200_vs.nss - complete
 dm0210.nss - complete
 dm0220.nss - complete
-dm0230.nss - proof I
-dm0240.nss - proof I
+dm0230.nss - proof II
+dm0240.nss - proof II
