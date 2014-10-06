@@ -645,7 +645,7 @@ Der uebliche Schmerz&.&.&.
 [text0083]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm01/3000250a01">
-"Ow&, ow&, ow&.&.&."
+"Au&, au&, au&.&.&."
 
 {	Fw("fwタエ_通常_sad");}
 //【タエ】
