@@ -95,8 +95,8 @@ scene dm0240.nss
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0011]
-Ich dusche nach dem Essen und bedecke mein halb-feuchtes Haar mit dem Handtuch auf meinen
-Schultern und gehe in das Wohnzimmer&.
+Ich dusche nach dem Essen und bedecke mein halb-feuchtes Haar mit dem Handtuch
+auf meinen Schultern und gehe in das Wohnzimmer&.
 
 </PRE>
 	SetText();
@@ -171,7 +171,7 @@ Koujaku ist nicht zu sehen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0021]
-Grossmutter&, die die ganze Zeit auf den Fernseher gestart hat&, 
+Grossmutter&, die die ganze Zeit auf den Fernseher gestarrt hat&, 
 dreht sich zu mir um&.
 
 Grossmutter hat mir gesagt das ich ihr sofort Bescheid sagen soll&,
@@ -217,7 +217,7 @@ falls meine Kopfschmerzen schlimmer werden&.
 [text0031]
 //【タエ】
 <voice name="タエ" class="タエ" src="voice/dm02/4000100b03">
-"Ist das so? Dann lass uns mal versuchen die Formel etwas ab zu aendern&."
+"Ist das so? Dann lass uns mal versuchen die Formel etwas zu aendern&."
 
 </PRE>
 	SetText();
@@ -296,7 +296,7 @@ obwohl ich nur meinen Fuss anhebe&.
 <PRE @box0>
 [text0040]
 Obwohl es keine sichtbaren Einschnitte oder Bluterguesse gibt&, 
-gibt es einen dumpfen Schmerz in der Mitte meines Koerpers&.
+spuere ich einen dumpfen Schmerz aus der Mitte meines Koerpers&.
 
 Ist es weil ich in Rhyme Schaden genommen habe&.&.&.?
 
