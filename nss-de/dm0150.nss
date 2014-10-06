@@ -80,7 +80,7 @@ den Laden von hinter der Theke aus&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0011]
-Ow&, ow&, ow&.&.&.
+Au&, au&, au&.&.&.
 
 Ich habe meine ueblichen Kopfschmerzen und massiere die Innenwaende meiner 
 Augenhoehle mit meinem Zeigefinger und Daumen&.
