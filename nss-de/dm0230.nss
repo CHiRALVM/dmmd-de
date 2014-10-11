@@ -94,7 +94,7 @@ ls
 [text0011]
 Autsch&. Irgendetwas tut mir weh&.
 
-Es fuehlt sich so an als wuerde mich Etwas spitzes anpieken&.&.&.
+Es fuehlt sich so an als wuerde mich etwas spitzes anpieken&.&.&.
 
 
 </PRE>
@@ -151,8 +151,8 @@ Es fuehlt sich so an als wuerde mich Etwas spitzes anpieken&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0020]
-Ich springe trotz des anwesenden Angreifers auf und das stupsende Ding faellt herunter&. 
-Ich greife reflexartig mit beiden Haenden nach ihm&.
+Ich springe trotz des anwesenden Angreifers auf und das stupsende Ding faellt 
+herunter&. Ich greife reflexartig mit beiden Haenden danach&.
 
 </PRE>
 	SetText();
@@ -190,7 +190,7 @@ Ich greife reflexartig mit beiden Haenden nach ihm&.
 {	DeleteFw();}
 //【ベニ】
 <voice name="ベニ" class="ベニ" src="voice/dm02/3000060b16">
-"Arhh&, lass mich los! Wie kannst du nur einen Gast so behandeln!?"
+"Arhh&, lass mich los! Wie kannst du einen Gast nur so behandeln!?"
 
 </PRE>
 	SetText();
@@ -202,7 +202,7 @@ Ich greife reflexartig mit beiden Haenden nach ihm&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0022]
-Beni flatttert in meiner Hand and schaut mich duester an&.
+Beni flatttert in meiner Hand und blickt mich finster an&.
 
 </PRE>
 	SetText();
@@ -250,14 +250,14 @@ Ich stehe mit dem schreiendem Beni in meiner Hand auf&.
 
 Huch? Wo ist Ren?
 
-Ich suche nach ihm und sehe das er an der Ecke des Bettes schlaeft&.
+Ich suche nach ihm und sehe das er schlafend in der Ecke des Bettes liegt&.
 
-Oh stimmt&, er hat gesagt das die Daten beschaedigt sind&. 
-Ich muss ihn spaeter noch warten&.
+Oh stimmt&, er hat gesagt das die Daten beschaedigt waeren&. 
+Ich muss ihn spaeter noch reparieren&.
 
-Aber erst muss ich Etwas essen&.
+Aber erst muss ich etwas zu mir nehmen&.
 
-Dank des Schlafes&, fuehle ich mich deutlich besser&.
+Dank des Schlafes fuehle ich mich deutlich besser&.
 
 Die Kopfschmerzen sind auch verschwunden&.
 
@@ -274,7 +274,7 @@ dass ich nicht laufen kann&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0031]
-Als ich den Raum verlasse&, rieche ich von Unten koestliches Essen&.
+Als ich den Raum verlasse&, rieche ich von unten koestliche Speisen&.
 
 Grossmutter ist wieder da&. Sie hat angefangen zu kochen&.
 
@@ -355,10 +355,10 @@ Kueche&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0044]
-Koujaku sitzt am Esstisch und der Raum ist mit appetitlichen Geruechen 
-gefuellt&.
+Koujaku sitzt am Esstisch in der mit appetitlichen Geruechen 
+gefuellte Kueche&.
 
-Grossmutter steht auch da&.
+Grossmutter ist auch da&.
 
 </PRE>
 	SetText();
@@ -512,7 +512,7 @@ Worauf Koujaku ihn geschickt auffaengt&.
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm02/3000180a02">
 "Ich kann nichts dagegen tun&. Du bist ein echter Griesgram&, wenn du gerade
- aufgewacht worden bist&."
+ aufgeweckt worden bist&."
 
 </PRE>
 	SetText();
@@ -601,7 +601,7 @@ lacht&.
 [text0072]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/3000230a01">
-"Es ist anders wenn du jeden Tag angeschrien wirst&. Es ist ziemlich schwer&."
+"Es ist anders wenn du jeden Tag angeschrien wirst&. Es ist ziemlich anstrengend&."
 
 </PRE>
 	SetText();
@@ -630,11 +630,10 @@ lacht Koujaku noch euphorischer&.
 {
 	FadeDelete("絵背景100", 500, null, true);
 }
-Ich fuelle Tee in die Drei Tassen&, waehrrend Grossmutter die Teller
+Ich fuelle Tee in die drei Tassen&, waehrrend Grossmutter die Teller
 mit frischen Speisen auf dem Tisch verteilt&.
 
-Da alles vorbereitet ist&, 
-setze ich mich mit den Anderen an den Tisch&.
+Da alles vorbereitet ist&, setze ich mich mit den Anderen an den Tisch&.
 
 </PRE>
 	SetText();
@@ -683,7 +682,7 @@ Lecker&.
 {
 	SetVolumeEX("SE*", 3000, 0, null);
 }
-Essen&, nachdem man seine Erschoepfung ausgeschlafen hat&,
+Essen&, nachdem man seine Erschoepfung weg geschlafen hat&,
 ist koestlich&. Wirklich koestlich&.
 
 Waehrend ich das feststelle&, beobachtet Koujaku Grossmutter laechelnd&.
@@ -705,7 +704,7 @@ Waehrend ich das feststelle&, beobachtet Koujaku Grossmutter laechelnd&.
 {	Fw("fwタエ_通常_sigh");}
 //【タエ】
 <voice name="タエ" class="タエ" src="voice/dm02/3000290b03">
-"Hmmf&. Wie kannst du das sagen&, wenn du spontan entschieden hast her zukommen?"
+"Hmmf&. Wie kannst du das sagen&, wenn du spontan entschieden hast zu kommen?"
 
 {	Fw("fw紅雀_通常_normal2");}
 //【紅雀】
@@ -739,7 +738,7 @@ Aufeinmal bin ich schuld und Koujaku starrt mich an&.
 {	Fw("fwタエ_通常_normal2");}
 //【タエ】
 <voice name="タエ" class="タエ" src="voice/dm02/3000320b03">
-"Du hast wie ein Stein geschlafen&. Du bist nicht aufgestanden&,
+"Du hast wie ein Stein geschlafen&. Du bist nicht aufgewacht&,
  egal wie oft wir gerufen haben&."
 
 </PRE>
@@ -789,8 +788,7 @@ Koujaku beobachtet sie laechelnd&.
 
 Aus irgendeinem Grund&, scheint Grossmutter Koujaku zu moegen&.
 
-Koujaku kam mit seiner Mutter auf die Insel&,
-aber man traf ihn hauefiger alleine an&.
+Koujaku kam mit seiner Mutter auf die Insel&, aber man traf ihn hauefiger alleine an&.
 
 Deshalb haengt er oft mit mir rum und kommt zu mir nach Hause&. 
 Natuerlich ist er auch viel von Grossmutters Essen&.
