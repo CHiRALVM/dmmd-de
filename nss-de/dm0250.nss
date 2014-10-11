@@ -67,7 +67,8 @@ scene dm0250.nss
 
 Koujaku ist nicht hier&. Auch Ren nicht&.
 
-Ich dachte erst das niemand da sei&, aber dann sah ich das die Tuer die zur Veranda offen stand&. 
+Ich dachte erst das niemand da sei&, aber dann sah ich das die Tuer die zur Veranda 
+offen stand&. 
 
 </PRE>
 	SetText();
@@ -92,23 +93,22 @@ waehrend er weissen Rauch aus seinen leicht verengten Lippen blaest&.
 Koujaku raucht nie in meinem Zimmer&.&.&. Aus irgendeinem Grund&,
 raucht er nur auf der Veranda&.
 
-Er raucht nicht vor den Frauen oder waehrend der Arbeit&, nichtmal wenn er in der Bar ist&, 
-nur hier&.
+Er raucht nicht vor den Frauen oder waehrend der Arbeit&, nichtmal wenn er in der Bar 
+ist&, nur hier&.
 
-Ich weiss nicht wieso&, aber vielleicht kann er sich nur hier
-wirklich entspannen&.
+Ich weiss nicht wieso&, aber vielleicht kann er sich nur hier wirklich entspannen&.
 
 Koujaku wuerde in der Oeffentlichkeit nie so trueb schauen&. 
 Er laechelt einfach immer zuversichtlich&. So versucht er
 sich selbst darzustellen&.
 
-Es scheint so als wuerde er normalerweise Spass mit Frauen hat&, aber ich frage
+Es scheint so als wuerde er normalerweise Spass mit Frauen haben&, aber ich frage
 mich ob selbst das unerwarteterweise erschoepfend ist&.
 
 Koujakus Hand fuehrt die Zigarette an seinen Mund&. Im Dunkeln 
 sehen seine Finger extrem lang und schoen aus&.
 
-Er hat jeden Tag umgang mit Haaren&, deshalb ist er wahrscheinlich
+Er beschaeftigt sich jeden Tag mit Haaren&, deshalb ist er wahrscheinlich
 ziemlich fingerfertig&.
 
 Sie sehen knochig und maskulin aus; Es ist seltsam&, dass ich sie schoen finde&.
@@ -117,7 +117,7 @@ Koujaku haelt Ren in seinen Haenden&, auf dessen Kopf Beni sitzt&. Beide scheine
 im Schlafmodus zu sein&.
 
 Ich fuerchte mich davor das sie ueber das Gelaender fallen&,
-aber ich vertraue das Koujaku die beiden festhaelt&.
+aber ich vertraue darauf das Koujaku die beiden festhaelt&.
 
 Ich nehme den Aschenbecher aus meinem Zimmer und oeffne die Tuer zur Veranda&.
 
@@ -156,7 +156,7 @@ Ich nehme den Aschenbecher aus meinem Zimmer und oeffne die Tuer zur Veranda&.
 <PRE @box0>
 [text0031]
 Koujakus abwensende Augen blicken auf mich und einen schlaffes Laecheln 
-erscheint auf seinem Mund&.
+erscheint auf seinen Lippen&.
 
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm02/5000020a02">
@@ -298,8 +298,9 @@ Koujaku atmet aus und lacht unerwartet&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0052]
-Ich strecke ihm den Aschenbecher hin&, worauf er den abgebrannten Zigarettenstummel darin ausdrueckt&. 
-Ich stele den Aschenbecher neben seine Fuesse und lehne mich neben ihn ans Geruesst&.
+Ich strecke ihm den Aschenbecher hin&, worauf er den abgebrannten Zigarettenstummel 
+darin ausdrueckt&. Ich stele den Aschenbecher neben seine Fuesse und lehne mich
+neben ihn ans Geruest&.
 
 {
 	Fw("fw紅雀_通常_sad");
@@ -350,8 +351,7 @@ runzelt er die Stirn&.
 [text0060]
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm02/5000140a02">
-"Deine Haare&. Ich sage dir immer wieder das du sie besser
- abtrocknen musst&."
+"Deine Haare&. Ich sage dir immer wieder das du sie besser abtrocknen musst&."
 
 </PRE>
 	SetText();
@@ -445,7 +445,8 @@ Er packt mich an die Nase&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0071]
-When I shake my head to escape&, Koujaku smiles happily&.
+Als ich um zu entkommen meinen Kopf schuettle&, 
+laechelt Koujaku gluecklich&.
 
 </PRE>
 	SetText();
@@ -466,16 +467,15 @@ When I shake my head to escape&, Koujaku smiles happily&.
 }
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/5000190a01">
-"A little&, yeah&. I don't want to have to see
- a professional&. Doing it myself is enough&."
+"Ein bisschen&, Ja&. Ich brauche keinen Profi&. 
+ Es selbst zu tun reicht mir&."
 
 {
 	Fw("fw紅雀_通常_normal");
 }
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm02/5000200a02">
-"Tja&, es ist nicht so schlimm? Alles scheint an der richtigen
- Stelle zu sein&."
+"Tja&, es ist nicht so schlimm? Alles scheint an der richtigen Stelle zu sein&."
 
 </PRE>
 	SetText();
@@ -525,8 +525,8 @@ Koujaku kichert&.
 
 Ich lasse niemanden mein Haar schneiden&.
 
-Seitdem ich geboren wurde&, kann ich 
-mein Haar spueren&.
+Seitdem ich geboren wurde&, kann ich in meinem Haar fuehlen&.
+Seitdem ich geboren wurde&, kann ich in meinem Haar fuehlen&.
 
 Es tut mir weh wenn ich mein Haar mit Scheren schneide&, 
 deshalb schneide ich sie mir nicht&.
@@ -543,13 +543,13 @@ sie zogen aus Jux an meinem Haar&.&.&. Es war die Hoelle&.
 Sie mobbten mich&, weil sie es fuer lustig hielten&. 
 Aber Koujaku hat mich immer gerettet&.
 
-Trotzdem es schien so das Koujaku mich am Anfang fuer ein
+Trotzdem es schien es so&, dass Koujaku mich am Anfang fuer ein
 Maedchen hielt&.
 
 Als er herausfand das ich ein Junge war&, war er erwartungsgemaess ueberrascht&. 
-Aber Koujakus Verhalten hat sich danach nicht geaendert&.
+Aber Koujakus Verhalten hat sich nicht geaendert&.
 
-And I was pretty happy about it&.
+Und darueber war ich ziemlich gluecklich&.
 
 </PRE>
 	SetText();
@@ -601,8 +601,8 @@ PRE @box0>
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0092]
-Koujaku schaut sehr dramatisch in die Ferne und 
-ich werfe ihm einen weiteren Blick zu&.
+Koujaku schaut sehr dramatisch in die Ferne und ich werfe ihm 
+einen weiteren Blick zu&.
 
 </PRE>
 	SetText();
@@ -629,7 +629,7 @@ ich werfe ihm einen weiteren Blick zu&.
 <PRE @box0>
 [text0101]
 Ich trockne mein Haar ab und ein stechender Schmerz sticht durch mich
-bis zu meinen Schultern&.
+hindurch bis zu meinen Schultern&.
 
 {
 	SetVolumeEX("SE*", 1000, 0, null);
@@ -684,7 +684,7 @@ Ist das immer noch von Rhyme&.&.&.?
 [text0110]
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm02/5000320a02">
-"Es sieht nicht nach nichts aus&. Wenn ich so darueber anchdenke&, 
+"Es sieht nicht nach nichts aus&. Wenn ich so darueber nachdenke&, 
  sahst du schon vor einer Weile erschoepft aus&."
 
 {
@@ -755,7 +755,7 @@ es nicht abkaufen&.&.&.
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/5000380a01">
 "Es ist ploetzlich passiert&. Ich habe etwas ausgeliefert und
- bevor ich wusste was los ist&."
+ bevor ich wusste was los ist war ich auf einem Rhyme Feld&."
 
 {
 	Fw("fw紅雀_通常_normal2");
@@ -791,7 +791,7 @@ es nicht abkaufen&.&.&.
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/5000420a01">
 "Ich verstehe es auch nicht wirklich&, aber es war in der Naehe deines Gebietes&. 
- Diese egne Seitengasse da&."
+ Diese enge Seitengasse da&."
 
 {
 	Fw("fw紅雀_通常_think");
@@ -937,7 +937,7 @@ seuftzt Koujaku&.
 }
 //【紅雀】
 <voice name="紅雀" class="紅雀" src="voice/dm02/5000570a02">
-"Es kann auch sein das es ihm egal war&, wenn er herausfordert&. 
+"Es kann auch sein das es ihm egal war&, wen er herausfordert&. 
  Oder es koennte jemand sein der einen Grauel gegen dich hegt&."
 
 {
@@ -990,7 +990,7 @@ seuftzt Koujaku&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0171]
-Koujaku bleibt mit besorgter Mine still&.
+Koujaku bleibt mit besorgter Mine stehen&.
 
 Nach einer Weile hoere ich ein leichtes Stoehnen&.
 
