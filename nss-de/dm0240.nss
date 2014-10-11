@@ -154,7 +154,7 @@ Koujaku ist nicht zu sehen&.
 {	Fw("fw蒼葉_通常_shock2");}
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm02/4000060a01">
-"Immer wenn ich Kopfschmerzen bekomme nehme ich meine Medizin wie ueblich&,
+"Immer wenn ich Kopfschmerzen bekomme&, nehme ich meine Medizin wie ueblich&,
  aber in letzter Zeit ist es nicht mehr so wirksam&."
 
 {	Fw("fwタエ_通常_normal");}
