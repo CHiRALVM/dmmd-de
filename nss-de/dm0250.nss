@@ -93,8 +93,8 @@ waehrend er weissen Rauch aus seinen leicht verengten Lippen blaest&.
 Koujaku raucht nie in meinem Zimmer&.&.&. Aus irgendeinem Grund&,
 raucht er nur auf der Veranda&.
 
-Er raucht nicht vor den Frauen oder waehrend der Arbeit&, nichtmal wenn er in der Bar 
-ist&, nur hier&.
+Er raucht nicht vor den Frauen oder waehrend der Arbeit&, nicht einmal wenn er in 
+der Bar ist&, nur hier&.
 
 Ich weiss nicht wieso&, aber vielleicht kann er sich nur hier wirklich entspannen&.
 
