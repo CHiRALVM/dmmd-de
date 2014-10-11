@@ -356,7 +356,7 @@ Kueche&.
 <PRE @box0>
 [text0044]
 Koujaku sitzt am Esstisch in der mit appetitlichen Geruechen 
-gefuellte Kueche&.
+gefuellten Kueche&.
 
 Grossmutter ist auch da&.
 
