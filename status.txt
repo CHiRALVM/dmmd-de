@@ -10,7 +10,6 @@ proof - Requires Proof Reading
 complete - Complete
 
 NOTE:
-
 Due to the big amount of files some proof-reading steps
 might be skipped.
 
@@ -48,6 +47,6 @@ dm0190sl.nss - complete
 dm0200_vs.nss - complete
 dm0210.nss - complete
 dm0220.nss - complete
-dm0230.nss - proof III
-dm0240.nss - proof III
-dm0250.nss - proof II
+dm0230.nss - complete
+dm0240.nss - complete
+dm0250.nss - complete
