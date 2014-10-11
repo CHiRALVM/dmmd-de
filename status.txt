@@ -49,3 +49,4 @@ dm0210.nss - complete
 dm0220.nss - complete
 dm0230.nss - proof II
 dm0240.nss - proof II
+dm0250.nss - proof I
