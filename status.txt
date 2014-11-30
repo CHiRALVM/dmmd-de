@@ -13,13 +13,19 @@ NOTE:
 Due to the big amount of files some proof-reading steps
 might be skipped.
 
+NOTE 30.11.2014:
+
+I recently switched to Win7 and noticed that the whole formatting is fucked up.
+All files with fixed formatting will be marked with a capital F, 
+until all files are fixed and this notice is removed.
+
 Start of project: Sat, 27. Sep 2014
 
 Time scheduele:
 	2 files per day
 	
-dm0010.nss - complete
-dm0020.nss - complete
+dm0010.nss - complete F
+dm0020.nss - complete F
 dm0030.nss - complete
 dm0040.nss - complete
 dm0050.nss - complete

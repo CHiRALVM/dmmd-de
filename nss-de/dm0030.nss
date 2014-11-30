@@ -81,7 +81,8 @@ scene dm0030.nss
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0009]
-Ich strecke mich und schaue auf die Digitaluhr auf dem Tresen&.
+Ich strecke mich und schaue auf die Digitaluhr auf dem 
+Tresen&.
 
 
 </PRE>
@@ -101,11 +102,13 @@ Ich strecke mich und schaue auf die Digitaluhr auf dem Tresen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0010]
-Dieser Laden bietet alles von kleinen Zusatzteilen bis hin zu komplexen Metallteilen 
-zum Vorzugspreis an&, Junk Shop Heibon&.
+Dieser Laden bietet alles von kleinen Zusatzteilen bis hin 
+zu komplexen Metallteilen zum Vorzugspreis an&, 
+Junk Shop Heibon&.
 
-Die Raffinesse des Namens zog mich an und ich fing an hier zu arbeiten;
-Ich frage mich wie lange schon&.&.&.Egal&,es ist lang her&.
+Die Raffinesse des Namens zog mich an und ich fing an hier 
+zu arbeiten&. Ich frage mich wie lange schon&.&.&.
+Egal&,es ist lang her&.
 
 </PRE>
 	SetText();
@@ -141,10 +144,12 @@ Ich frage mich wie lange schon&.&.&.Egal&,es ist lang her&.
 [text0021]
 Ich war gerade am Einschlafen als mein Coil klingelte&.
 
-Ein Coil ist so eine Art Telefon&, aber doch viel praktischer&. 
+Ein Coil ist so eine Art Telefon&, aber doch viel 
+praktischer&. 
 
-Man kann damit telefonieren&, Nachrichten schreiben&, Zahlungen taetigen&, 
-sich ausweisen und natuerlich fernsehen&.
+Man kann damit telefonieren&, Nachrichten schreiben&,
+Zahlungen taetigen&, sich ausweisen und natuerlich 
+fernsehen&.
 
 </PRE>
 	SetText();
@@ -222,8 +227,8 @@ sich ausweisen und natuerlich fernsehen&.
 Ist das eine neue Art von Werbung?
 Vielleicht Werbung fuer Erwachsene&.
 
-So etwas wie "Hilf mir&, Ich bin wegen meinem Koerper aufgewuehlt"&,
-oder so&.
+So etwas wie "Hilf mir&, Ich bin wegen meinem Koerper 
+aufgewuehlt"&, oder so&.
 
 {	//○③メールリスト内部移動『CoilMListMove("移動先のメールナット名",秒数)』
 	CoilMListMove("hime0010",500);
@@ -278,7 +283,8 @@ Loeschen&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0031]
-Waehrend ich mich auf meinen Coil konzentrierte&, schlug etwas in meine Taille&.
+Waehrend ich mich auf meinen Coil konzentrierte&, schlug 
+etwas in meine Taille&.
 
 </PRE>
 	SetText();
@@ -300,7 +306,8 @@ Waehrend ich mich auf meinen Coil konzentrierte&, schlug etwas in meine Taille&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0032
-Ich falle vom Stuhl und etwas schweres landet auf meinem Ruecken&.
+Ich falle vom Stuhl und etwas schweres landet auf meinem 
+Ruecken&.
 
 Drei kichernde Stimmen&.
 Die Schuldigen waren&.&.&.
@@ -361,10 +368,11 @@ Die Schuldigen waren&.&.&.
 [text0041]
 Schliesslich tauchten die vier boesartigen Geschwister auf&.
 
-Der aelteste Sohn&, Kio&, der zweitaelteste Sohn&, Nao&, und die Aelteste&, Mio&.
+Der aelteste Sohn&, Kio&, der zweitaelteste Sohn&, Nao&, 
+und die Aelteste&, Mio&.
 
-Eine Gruppe von nervigen Kindern aus der Nachbarschaft die nur kommen um herum
-zu toben&.
+Eine Gruppe von nervigen Kindern aus der Nachbarschaft die 
+nur kommen um hier herum zu toben&.
 
 </PRE>
 	SetText();
@@ -377,8 +385,8 @@ zu toben&.
 [text0042]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/3000090a01">
-"Ich hab's euch schon so oft gesagt&, das ist kein Spielplatz!
-Begreift ihr Kinder gar nichts?"
+"Ich hab's euch schon so oft gesagt&, das ist kein 
+ Spielplatz! Begreift ihr Kinder gar nichts?"
 
 </PRE>
 	SetText();
@@ -436,7 +444,9 @@ Begreift ihr Kinder gar nichts?"
 <voice name="ミオ" class="ミオ" src="voice/dm00/3000120b11">
 "Kann nicht sein!"
 
-Nao erhebt seine Stimme nachdem er ueber meine Schulter auf den Coil geschaut hat und sofort lehnen sich auch die Anderen ueber mich&.
+Nao erhebt seine Stimme nachdem er ueber meine Schulter auf
+den Coil geschaut hat und sofort lehnen sich auch die 
+Anderen ueber mich&.
 
 </PRE>
 	SetText();
@@ -482,7 +492,8 @@ I-Ich werde ersticken.&.&.&.
 [text0070]
 //【ナオ】
 <voice name="ナオ" class="ナオ" src="voice/dm00/3000140b13">
-"Perverse E-Mail! Perverse E-Mail! Aoba ist ein Perversling! Perversling!"
+"Perverse E-Mail! Perverse E-Mail! Aoba ist ein 
+ Perversling! Perversling!"
 
 {
 	CreateSE("SE01","se人体_動作_衣擦れ01");
@@ -510,7 +521,8 @@ I-Ich werde ersticken.&.&.&.
 }
 //【キオ】
 <voice name="キオ" class="キオ" src="voice/dm00/3000160b10">
-"Nu-uh! Es ist eine Nachricht ueber das Kaufen von boesem Zeug! Weil dieser Laden so zwielichtig ist!"
+"Nu-uh! Es ist eine Nachricht ueber das Kaufen von boesem 
+ Zeug! Weil dieser Laden so zwielichtig ist!"
 
 {
 	CreateSE("SE01","se人体_動作_衣擦れ01");
@@ -559,7 +571,8 @@ I-Ich werde ersticken.&.&.&.
 }
 //【キオ】
 <voice name="キオ" class="キオ" src="voice/dm00/3000200b10">
-"Okay! Verhaften wir den perversen&, schmutzigen und zwielichtigen Aoba!"
+"Okay! Verhaften wir den perversen&, schmutzigen und 
+ zwielichtigen Aoba!"
 
 {
 	CreateSE("SE01","se人体_動作_衣擦れ01");
@@ -678,7 +691,8 @@ I-Ich werde ersticken.&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0081]
-Ich schnelle mit wackligen Knien hoch und versuche sie abzuschuetteln&.
+Ich schnelle mit wackligen Knien hoch und versuche sie 
+abzuschuetteln&.
 
 Sie interessiert es nicht ob ich sie kindisch nenne&.
 Die Kinder wuerden nie einfach so aufgeben&.
@@ -696,7 +710,8 @@ Die Kinder wuerden nie einfach so aufgeben&.
 [text0090]
 //【ナオ】
 <voice name="ナオ" class="ナオ" src="voice/dm00/3000270b13">
-"Hey&, hey&, das Ding da auf dem Regal&, wofuer verwendet man das?"
+"Hey&, hey&, das Ding da auf dem Regal&, wofuer verwendet man 
+ das?"
 
 {
 	Fw("fwキオ_通常_normal");
@@ -720,7 +735,8 @@ Die Kinder wuerden nie einfach so aufgeben&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0091]
-Sie haben ihre Aufmerksamkeit bereits auf etwas Anderes gerichtet&.&.&.
+Sie haben ihre Aufmerksamkeit bereits auf etwas Anderes 
+gerichtet&.&.&.
 
 
 </PRE>
@@ -768,14 +784,16 @@ Sie haben ihre Aufmerksamkeit bereits auf etwas Anderes gerichtet&.&.&.
 <PRE @box0>
 [text0100]
 Ich war schokiert als ich auf meinen Coil schaute&.
-Irgendwann fing es an einen "Download Abgeschlossen" Bildschirm anzuzeigen&.
+Er zeigte einen "Download Abgeschlossen" an&.
 
-Stimmt&, Ich hatte das Gefuehl&,dass mein Coil vorhin einen Ton von sich gegeben hat&.&.&.
+Stimmt&, Ich hatte das Gefuehl&,dass mein Coil vorhin einen 
+Ton von sich gegeben hatte&.&.&.
 
 Vielleicht habe ich aus Versehen einen Knopf gedrueckt&, 
-als mich die Blagen attackiert haben&.
+als mich die Balgen attackiert haben&.
 
-Ich hoffe mal das ich nicht irgendein seltsames Programm heruntergeladen habe&.&.&.
+Ich hoffe mal das ich nicht irgendein seltsames Programm 
+heruntergeladen habe&.&.&.
 
 </PRE>
 	SetText();
@@ -804,7 +822,7 @@ Ich hoffe mal das ich nicht irgendein seltsames Programm heruntergeladen habe&.&
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0102]
-Waehrend ich verwirrt da stand&, laeutete die Tuerglocke&.
+Waehrend ich verwirrt da stehe&, laeutet die Tuerglocke&.
 
 {
 	St("C",740, @0,@0,"st羽賀_通常_normal2");
@@ -812,9 +830,10 @@ Waehrend ich verwirrt da stand&, laeutete die Tuerglocke&.
 }
 //【羽賀】
 <voice name="羽賀" class="羽賀" src="voice/dm00/3000320b07">
-"Puh&, Das Lieferaddresse war ziemlich weit entfernt&."
+"Puh&, Die Lieferaddresse war ziemlich weit entfernt&."
 
-Der Ladenbesitzer&, Haga-san&, welcher gerade etwas ausgeliefert hatte&, war zurueck&.
+Der Ladenbesitzer&, Haga-san&, welcher gerade etwas 
+ausgeliefert hatte&, ist zurueck&.
 
 </PRE>
 	SetText();
@@ -839,9 +858,11 @@ Der Ladenbesitzer&, Haga-san&, welcher gerade etwas ausgeliefert hatte&, war zur
 	St("C",740, @0,@0,"st羽賀_通常_normal2");
 	FadeSt("C",200,true);
 }
-Haga-san's Laecheln verschwindet als er die boesartigen Balgen sieht&.
+Haga-san's Laecheln verschwindet als er die boesartigen 
+Balgen sieht&.
 
-Angesichts des Schadens den Sie angerichtet haben&, ist es eine normale Reaktion&.
+Angesichts des Schadens den Sie angerichtet haben&, ist das
+eine normale Reaktion&.
 
 </PRE>
 	SetText();
@@ -1087,8 +1108,8 @@ Die Luft um Haga-san kommt zum Stillstand&.
 }
 //【ナオ】
 <voice name="ナオ" class="ナオ" src="voice/dm00/3000520b13">
-"Gla&.&.&. Gla&.&.&. Gla-Glat&, das ist schlecht&, mein Hals tut weh&, also ich
- gehe nach Hause!"
+"Gla&.&.&. Gla&.&.&. Gla-Glat&, das ist schlecht&, mein Hals tut 
+ weh&, also ich gehe nach Hause!"
 
 {
 	Fw("fwキオ_通常_fear");
@@ -1178,8 +1199,9 @@ Rede ich schnell auf Haga-san ein&.
 [text0163]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/3000590a01">
-"Ja! Wow&, genau wie wir angenommen haben! Genau wie Sie gesagt haben! 
- Ein Zuwachs von 50% im letzten Monat!"
+"Ja! Wow&, genau wie wir angenommen haben! 
+ Genau wie Sie gesagt haben! Ein Zuwachs 
+ von 50% im letzten Monat!"
 
 </PRE>
 	SetText();
@@ -1263,21 +1285,23 @@ Rede ich schnell auf Haga-san ein&.
 }
 //【羽賀】
 <voice name="羽賀" class="羽賀" src="voice/dm00/3000640b07">
-"Wenn sie sich so gut verkaufen&, sollten wir den Vorrat etwas
- erhoehen&."
+"Wenn sie sich so gut verkaufen&, sollten wir den Vorrat 
+ etwas erhoehen&."
 
 {
 	SetVolumeEX("SE*", 1000, 0, null);
 	DeleteAllSt(200,true);
 }
-Nachdem Haga-san die guten Neuigkeiten gehoert hat&, beruhigt er sich wieder&.
+Nachdem Haga-san die guten Neuigkeiten gehoert hat&, 
+beruhigt er sich wieder&.
 
 Was fuer eine Erleichterung&.&.&.Das war gefaehrlich&.
 
-Haga-san wird abscheulich sobald ihm der Geduldsfaden reisst&.
+Haga-san wird abscheulich sobald ihm der Geduldsfaden 
+reisst&.
 
-Nachdem er sich beruhigt hatte&, rueckte er seine Brille zu recht&,
-hebte seine Augenbrauen, und lachte&.
+Nachdem er sich beruhigt hat&, rueckt er seine Brille 
+zurecht&, hebt seine Augenbrauen, und lacht&.
 
 
 {
@@ -1286,7 +1310,7 @@ hebte seine Augenbrauen, und lachte&.
 }
 //【羽賀】
 <voice name="羽賀" class="羽賀" src="voice/dm00/3000650b07">
-"Ach&, wirklich&.&.&.Sie sind schon stoerende Kinder, oder?"
+"Ach&, wirklich&.&.&.Sie sind schon nervige Kinder, oder?"
 
 </PRE>
 	SetText();
@@ -1313,7 +1337,8 @@ hebte seine Augenbrauen, und lachte&.
 [text0181]
 //【羽賀】
 <voice name="羽賀" class="羽賀" src="voice/dm00/3000670b07">
-"Wenn sie nicht so boshaft waeren&, waeren sie ganz suess&.&.&."
+"Wenn sie nicht so boshaft waeren&, waeren sie ganz 
+ niedlich&.&.&."
 
 </PRE>
 	SetText();
@@ -1338,9 +1363,11 @@ hebte seine Augenbrauen, und lachte&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0190]
-Es ueberrascht mich immer wieder&, wenn ich sehe wie er zu einer vollkommen anderen Person wird&.
+Es ueberrascht mich immer wieder&, wenn ich sehe wie er zu 
+einer vollkommen anderen Person wird&.
 
-Es versteht sich von selbst das solche Leute schnell so werden koennen&.&.&.
+Es versteht sich von selbst das solche Leute schnell so 
+werden koennen&.&.&.
 
 {
 	Fw("fw羽賀_通常_normal2");
@@ -1359,7 +1386,8 @@ Es versteht sich von selbst das solche Leute schnell so werden koennen&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0191]
-Haga-san laueft zum Tresen und hebt den Papierbeutel am Boden auf&.
+Haga-san laueft zum Tresen und hebt den Papierbeutel am 
+Boden auf&.
 
 {
 	St("C",740, @0,@0,"st羽賀_通常_worry");
@@ -1367,8 +1395,8 @@ Haga-san laueft zum Tresen und hebt den Papierbeutel am Boden auf&.
 }
 //【羽賀】
 <voice name="羽賀" class="羽賀" src="voice/dm00/3000700b07">
-"Es tut mir Leid aber&, koenntest du das zum Kurier bringen? 
-Du kannst danach auch gehen&."
+"Es tut mir Leid aber&, koenntest du das zum Kurier bringen?
+ Du kannst danach auch gehen&."
 
 </PRE>
 	SetText();
@@ -1395,8 +1423,8 @@ Du kannst danach auch gehen&."
 [text0193]
 //【羽賀】
 <voice name="羽賀" class="羽賀" src="voice/dm00/3000720b07">
-"Ja&. Tatsaechlich&, kommt ploetzlich ein Kunde&, also dachte ich mir&, 
-das ich den Laden Heute frueher schliesse&."
+"Ja&. Tatsaechlich&, kommt ploetzlich ein Kunde&, also kam
+ mir der Einfall, den Laden heute frueher zu schliessen&."
 
 </PRE>
 	SetText();
@@ -1409,7 +1437,7 @@ das ich den Laden Heute frueher schliesse&."
 [text0200]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/3000730a01">
-"Wenn das so ist&, tue ich das&."
+"Wenn das so ist&, mach ich das&."
 
 </PRE>
 	SetText();
@@ -1421,9 +1449,11 @@ das ich den Laden Heute frueher schliesse&."
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box0>
 [text0201]
-Ich hebe meine Tasche auf und nehme Haga-san den Papierbeutel ab&.
+Ich hebe meine Tasche auf und nehme Haga-san den 
+Papierbeutel ab&.
 
-Ich schaue kurz auf die Quittung und stelle fest das das Liefeungsziel etwas weiter weg ist&.
+Ich schaue kurz auf die Quittung und stelle fest das das 
+Liefeungsziel etwas weiter entfernt ist&.
 
 Dieses Paket geht an den Kurier&.
 

@@ -1,3 +1,4 @@
+@echo off
 echo "NOTE: A working Japanese Locale is required"
 echo "Building nss.npa..."
 copy nss-de\*.nss nss

@@ -93,7 +93,8 @@ scene dm0020.nss
 //※加工：アナログ電話
 //【電話の人】
 <voice name="電話の人" class="電話の人" src="voice/dm00/2000040e01">
-"Bieten sie in ihrem Laden Einzelteile fuer Typ S II Allmates an?"
+"Bieten sie in ihrem Laden Einzelteile fuer Typ S II 
+ Allmates an?"
 
 </PRE>
 	SetText();
@@ -159,8 +160,9 @@ scene dm0020.nss
 //※加工：アナログ電話
 //【電話の人】
 <voice name="電話の人" class="電話の人" src="voice/dm00/2000120e01">
-"Wenn Sie damit einverstanden wearen&, dann&.&.&. Wenn der Laden heute
-schliesst&, koennte ich Sie dann treffen?"
+"Wenn Sie damit einverstanden wearen&, dann&.&.&. 
+ Wenn der Laden heute schliesst&, koennte ich Sie dann 
+ treffen?"
 
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/2000130a01">
@@ -169,8 +171,9 @@ schliesst&, koennte ich Sie dann treffen?"
 //※加工：アナログ電話
 //【電話の人】
 <voice name="電話の人" class="電話の人" src="voice/dm00/2000140e01">
-"Aehm&, Nein&, Emm&, wie soll ich das sagen&, wissen Sie&, ihre Stimme&.
- Sie ist &, Sie haben eine sehr schoene Stimme&, Und ich dachte&.&.&."
+"Aehm&, Nein&, Emm&, wie soll ich das sagen&, wissen Sie&, 
+ ihre Stimme&. Sie ist &.&.&. Sie haben eine sehr schoene 
+ Stimme &.&.&. und ich dachte&.&.&."
 
 </PRE>
 	SetText();
@@ -187,8 +190,9 @@ schliesst&, koennte ich Sie dann treffen?"
 [text0040]
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/2000150a01">
-"&.&.&.Nein&, Nein&, ueberhaupt nicht&, Ich bin fuehle mich geschmeichelt&. Ach&, uebrigens&,
- Sir&, um auf das Thema zurueck zu kommen&.&.&.Waere das in Ordnung?"
+"&.&.&.Nein&, Nein&, ueberhaupt nicht&, Ich bin fuehle mich 
+ geschmeichelt&. Ach&, uebrigens&, Sir&, um auf das Thema 
+ zurueck zu kommen&.&.&. Waere das in Ordnung?"
 
 //※加工：アナログ電話
 //【電話の人】
@@ -198,7 +202,8 @@ schliesst&, koennte ich Sie dann treffen?"
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/2000170a01">
 "Also&, um auf die Typ S II Ersatzteile zurueckzukommen&, 
- die neuen Teile dieser Produktionsreihe werden bald ankommen&."
+ die neuen Teile dieser Produktionsreihe werden bald 
+ ankommen&."
 
 //※加工：アナログ電話
 //【電話の人】
@@ -207,14 +212,15 @@ schliesst&, koennte ich Sie dann treffen?"
 
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/2000190a01">
-"Also&, wir akzeptieren Reservierungen momentan nur von unseren loyalsten Kunden&. 
- Haetten sie Interesse?"
+"Also&, wir akzeptieren Reservierungen momentan nur von 
+ unseren loyalsten Kunden&. Haetten sie Interesse?"
 
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/2000200a01">
 "Ich bin mir sicher das die neuen Ersatzteile sehr gefragt
  sein werden&, aber wenn Sie jetzt reservieren&,
- bekommen sie definitiv noch welche bevor sie vergriffen sind&."
+ bekommen sie definitiv noch welche bevor sie vergriffen 
+ sind&."
 
 //※加工：アナログ電話
 //【電話の人】
@@ -273,11 +279,13 @@ schliesst&, koennte ich Sie dann treffen?"
 }
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/2000270a01">
-"&.&.&.Okay&, Vielen Dank! Wir haben ihre Reservierung erhalten&."
+"&.&.&.Okay&, Vielen Dank! Wir haben ihre Reservierung 
+ erhalten&."
 
 //【蒼葉】
 <voice name="蒼葉" class="蒼葉" src="voice/dm00/2000280a01">
-"Hoffentlich bleiben sie unserem Laden auch in Zukunft treu!"
+"Hoffentlich bleiben sie unserem Laden auch in Zukunft 
+ treu!"
 
 //※加工：アナログ電話
 //【電話の人】
@@ -332,32 +340,39 @@ schliesst&, koennte ich Sie dann treffen?"
 [text0080]
 Nachdem ich aufgelegt habe&, seufzte ich laut auf.&.
 
-Auch wenn ich bewusst so rede&, Kunden mit Hintergedanken nerven&.
+Auch wenn ich bewusst so rede&, Kunden mit Hintergedanken 
+nerven&.
 
-Tja&, wenn es gut laeuft&, kann ich mir sicher sein etwas zu verkaufen&,
-also ist es in Ordnung&.
+Tja&, wenn es gut laeuft&, kann ich mir sicher sein etwas zu 
+verkaufen&, also ist es in Ordnung&.
 
-―― Deine Stimme ist so wunderschoen&, ich muss dich auf jeden Fall treffen&.
-Unter den Kunden die hier anrufen&, gibt es zu viele Typen die das sagen&.
+―― Deine Stimme ist so wunderschoen&, ich muss dich auf 
+jeden Fall treffen&.
+Unter den Kunden die hier anrufen&, gibt es zu viele Typen 
+die das sagen&.
 
 Sie wollen mich nur wegen meiner Stimme treffen&.&.&. 
 
-Es waere nicht so schlimm wenn ich eine Frau waere&, aber normalerweise 
-wuerde kein Typ einen anderen Typen so etwas fragen&.
+Es waere nicht so schlimm wenn ich eine Frau waere&, aber 
+normalerweise wuerde kein Typ einen anderen Typen so etwas
+fragen&.
 Am Anfang konnte ich gut damit umgehen&, 
-aber so wie jeder an meiner Stelle&, war ich verwirrt als es immer wieder passierte&. 
+aber so wie jeder an meiner Stelle&, war ich verwirrt als es
+immer wieder passierte&. 
 
 Aber es wurde dadurch auch einfacher Kunden dazu zu bringen
 Dinge zu kaufen&.
 
-Seitdem konnte ich&, genauso wie in dem Telefonat von gerade eben&, mehr verkaufen&.
+Seitdem konnte ich&, genauso wie in dem Telefonat von gerade
+eben&, mehr verkaufen&.
 
 Seltsamerweise passiert das nie im Laden selbst&.
 
 Manchmal trifft mich ein Kunde nach
 einem Telefonat&, aber ich trickse sie aus&.
 
-Am Ende gehen sie ohne zu wissen wem die Stimme gehoert hat&.
+Am Ende gehen sie ohne zu wissen wem die Stimme gehoert 
+hat&.
 
 Da Niemand zu Schaden kommt&, denke ich mir einfach 
 nichts und belasse es dabei&.
