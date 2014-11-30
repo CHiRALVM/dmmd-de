@@ -1,6 +1,6 @@
 build_bleeding.bat
 build_bleeding.sh
-nss-patch.npa
+./nss-patch.npa
 nss
 nss-en
 debug.nss
